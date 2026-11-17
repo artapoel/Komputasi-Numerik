@@ -1,3 +1,4 @@
-LinkedIn	: https://www.linkedin.com/in/leopatra/
-GitHub		: https://github.com/artapoel/Komputasi-Numerik
-Colab		: https://colab.research.google.com/drive/1ZGsd4u1vCO6EMAMiFHr2C8Jg80AqHhiO?usp=sharing
+LinkedIn	  : https://www.linkedin.com/in/leopatra/
+GitHub		  : https://github.com/artapoel/Komputasi-Numerik
+Colab	SPLTV	: https://colab.research.google.com/drive/1ZGsd4u1vCO6EMAMiFHr2C8Jg80AqHhiO?usp=sharing
+Colab bisection : https://colab.research.google.com/drive/1xI45tJ1y1fBL48v3O9mhymm_mWpqjxz-#scrollTo=f_VGtoaChnyT
